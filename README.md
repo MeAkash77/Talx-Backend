@@ -29,7 +29,7 @@ Ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/aakashdixit22/talx-backend.git
+git clone https://github.com/MeAkash77/Talx-Backend.git
 cd talx-backend
 ```
 
@@ -154,12 +154,9 @@ node app.js
 ## 🔗 Related Repositories  
 
 1. **Talx Frontend (Main Platform)**  
-   - [talx-frontend](https://github.com/aakashdixit22/talx-frontend)  
+   - [talx-frontend](https://github.com/MeAkash77/Talx-Full-Stack-Frontend)  
 
 2. **Talx AI Backend**  
-   - [talx-backend](https://github.com/aakashdixit22/talx-api)  
+   - [talx-backend](https://github.com/MeAkash77/Talx-Api)  
 
 ---
-
-## License 📝
-This project is licensed under the [MIT License](https://github.com/aakashdixit22/talx-backend/blob/main/LICENSE).
